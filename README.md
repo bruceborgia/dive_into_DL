@@ -68,5 +68,9 @@ $$
 $$
 (\frac{n_h}{s_h}) \times(\frac{n_w}{s_w})
 $$
-​				
-​		
+### 6.Batch Normalization
+
+​	bn层用于卷积和激活函数之间，加速收敛
+
+
+
